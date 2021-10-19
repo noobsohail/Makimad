@@ -1,0 +1,3 @@
+files:
+  - source: Makima/localization/en.yaml
+    translation: /**/Makima/localization/%locale_with_underscore%.yaml
